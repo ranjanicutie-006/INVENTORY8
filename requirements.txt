@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+tinydb
+bcrypt
+plotly
+python-dotenv
+watchdog
